@@ -1,4 +1,5 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Here we are trying to integrate the Google map with React js and we  are also showing the live location of user by just one Click
 
 ## Available Scripts
 
